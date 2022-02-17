@@ -1,5 +1,6 @@
 {
     "country": "us",
+    "enablePerTenantExtensionCop":  false,    
     "appFolders": [ "app" ],
     "testFolders": [ "test" ]
 }
