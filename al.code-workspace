@@ -1,6 +1,30 @@
 {
     "folders": [
         {
+            "path": "HybridBaseDeployment\\app"
+        },
+        {
+            "path": "HybridBaseDeployment\\test"
+        },
+        {
+            "path": "HybridBC\\app"
+        },
+        {
+            "path": "HybridBC\\test"
+        },
+        {
+            "path": "HybridBCLast\\app"
+        },
+        {
+            "path": "HybridBCLast\\test"
+        },
+        {
+            "path": "HybridGP\\app"
+        },
+        {
+            "path": "HybridGP\\test"
+        },
+        {
             "path": ".AL-Go"
         }
     ],
